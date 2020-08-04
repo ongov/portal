@@ -1,5 +1,8 @@
 # COVID Shield Web Portal
 
+For the most up to date COVID Alert code and technical questions please visit:  
+https://github.com/cds-snc/covid-alert-portal 
+
 ![Master Dockerhub container build status](https://github.com/CovidShield/portal/workflows/Dockerhub%20Container%20Builds/badge.svg)
 ![Master Terraform status](https://github.com/CovidShield/portal/workflows/Terraform/badge.svg)
 ![Master tests status](https://github.com/CovidShield/portal/workflows/Tests/badge.svg)
